@@ -87,12 +87,9 @@ Upload your project demos here!
 
 | Project Name                 |   Status         | Description                                                        |
 |:----------------------------|:----------------------------|:-------------------------------------------------------------------|
-| Visual Question Answering    |  <img width="882" height="454" alt="image" src="https://github.com/user-attachments/assets/0c2ad91b-417b-4c8e-aa38-b57bc56c8e96" />
-<img width="882" height="454" alt="image" src="https://github.com/user-attachments/assets/dffc758e-5bd0-4258-b5ef-77d9007aabd7" />| Shows question answering on the dogs photo                          |
-| Text Summarization          |    <img width="882" height="454" alt="image" src="https://github.com/user-attachments/assets/3a631d08-6fb3-49fb-9a81-42b6779ae7d4" /><img width="882" height="297" alt="image" src="https://github.com/user-attachments/assets/31943fce-e712-47b4-9884-f0f2c6d5afbd" />
-| Demonstrates summarizer’s output                                   |
-| Masked Language Modeling    | <img width="812" height="603" alt="image" src="https://github.com/user-attachments/assets/9a4f9abe-7424-429d-bc14-4ca7b211e9d4" />
- | Shows predicted words for `[MASK]`                                 |
+| Visual Question Answering|  <img width="882" height="454" alt="image" src="https://github.com/user-attachments/assets/0c2ad91b-417b-4c8e-aa38-b57bc56c8e96" /><img width="882" height="454" alt="image" src="https://github.com/user-attachments/assets/dffc758e-5bd0-4258-b5ef-77d9007aabd7" />| Shows question answering on the dogs photo|
+| Text Summarization|<img width="882" height="454" alt="image" src="https://github.com/user-attachments/assets/3a631d08-6fb3-49fb-9a81-42b6779ae7d4" /><img width="882" height="297" alt="image" src="https://github.com/user-attachments/assets/31943fce-e712-47b4-9884-f0f2c6d5afbd" />| Demonstrates summarizer’s output |
+| Masked Language Modeling    | <img width="812" height="603" alt="image" src="https://github.com/user-attachments/assets/9a4f9abe-7424-429d-bc14-4ca7b211e9d4" />| Shows predicted words for `[MASK]`|
 | Talking Doctor Chatbot      |  https://drive.google.com/file/d/1fV7SqNyO_6-v8yZdgHJGA7utSWmBDZII/view?usp=sharing  | GUI, speech recognition, Gemini response, and text-to-speech demo  |
 
 Visual Question Answering , Text Summarization , Masked Language Modeling 
