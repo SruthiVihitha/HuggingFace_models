@@ -94,7 +94,7 @@ Upload your project demos here!
 | Demonstrates summarizer’s output                                   |
 | Masked Language Modeling    | <img width="812" height="603" alt="image" src="https://github.com/user-attachments/assets/9a4f9abe-7424-429d-bc14-4ca7b211e9d4" />
  | Shows predicted words for `[MASK]`                                 |
-| Talking Doctor Chatbot      |  "C:\Users\sruth\OneDrive\Desktop\projects\vids_aimer\talking_doc.mp4" | GUI, speech recognition, Gemini response, and text-to-speech demo  |
+| Talking Doctor Chatbot      |  https://drive.google.com/file/d/1fV7SqNyO_6-v8yZdgHJGA7utSWmBDZII/view?usp=sharing  | GUI, speech recognition, Gemini response, and text-to-speech demo  |
 
 Visual Question Answering , Text Summarization , Masked Language Modeling 
-"C:\Users\sruth\OneDrive\Desktop\projects\vids_aimer\VQA_MASK_S.mp4"
+https://drive.google.com/file/d/1vYC2pphMisqFtZFhWojPWzRlQAj5n4q0/view?usp=sharing
